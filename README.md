@@ -20,9 +20,9 @@ ___
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/zakharovamaria73)
 <!-- [![HeadHunter](https://img.shields.io/badge/-HeadHunter-black?style=flat-square&logo=)](https://ulyanovsk.hh.ru/resume/c82066f5ff02fa848e0039ed1f355736394359) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=highcontrast
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=dark
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
