@@ -2,11 +2,6 @@
 
 ___
 
-Header
-
-
-About me
-
 ### Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
@@ -17,7 +12,11 @@ About me
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=WebStorm&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=VisualStudioCode&logoColor=blue)
 
+---
+
 ### Follow Me
+
+[![Visits Badge](https://badges.pufler.dev/visits/Mariyazakharova73/Mariyazakharova73)](https:Mariyazakharova73.dev)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/zakharovamaria73)
 [![HeadHunter](https://img.shields.io/badge/-HeadHunter-black?style=flat-square&logo=)](https://ulyanovsk.hh.ru/resume/c82066f5ff02fa848e0039ed1f355736394359)
