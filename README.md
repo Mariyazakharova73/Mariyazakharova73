@@ -20,3 +20,4 @@ About me
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/zakharovamaria73)
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-black?style=flat-square&logo=)](https://ulyanovsk.hh.ru/resume/c82066f5ff02fa848e0039ed1f355736394359)
