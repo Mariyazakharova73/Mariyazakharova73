@@ -1,28 +1,29 @@
 ### Привет 👋, Я Мария Захарова, начинающий front-end разработчик.
 
-___
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> -->
 
-### Languages and Tools
+### Connect with me:
 
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=Webpack&logoColor=blue)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=WebStorm&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=VisualStudioCode&logoColor=blue)
+  <a href="https://t.me/zakharovamaria73">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="telegram"/>
+  </a>
 
----
+### Languages and Tools:
 
-### Follow Me
+<p align="left">
+  <a href="#" target="_blank"> <img src="./images/HTML5_logo.svg" alt="HTML5" width="40" height="40" /> </a>
+  <a href="#" target="_blank"> <img src="./images/CSS3_logo.svg" alt="CSS3" width="40" height="40" /> </a>
+  <a href="#" target="_blank"> <img src="./images/JavaScript_logo.svg" alt="JavaScript" width="40" height="40" /> </a>
+</p>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/zakharovamaria73)
-<!-- [![HeadHunter](https://img.shields.io/badge/-HeadHunter-black?style=flat-square&logo=)](https://ulyanovsk.hh.ru/resume/c82066f5ff02fa848e0039ed1f355736394359) -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=dark
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Mariyazakharova73&style=flat-square&color=blue" alt=""/>
+</div>
