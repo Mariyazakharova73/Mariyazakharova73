@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-### Connect with me:
+### 📞Connect with me:
 
   <a href="https://t.me/zakharovamaria73">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="telegram"/>
@@ -14,7 +14,7 @@
 
 ---
 
-### Languages and Tools:
+### 🛠️Languages and Tools:
 
 <p align="left">
   <a href="#" target="_blank"> <img src="./images/HTML5-logo.svg" alt="HTML5" width="40" height="40" /> </a>
@@ -28,15 +28,9 @@
 </p>
 
 ---
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <!-- Options: &hide=stars,commits,prs,issues,contribs -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<br/>
 <details>
-<summary>Statistics:</summary>
+<summary> <h3>📈Statistics:</h3></summary>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=dark" />
@@ -50,4 +44,4 @@
 </details>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Mariyazakharova73&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Mariyazakharova73&label=Profile+views)
