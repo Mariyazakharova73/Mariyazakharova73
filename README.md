@@ -34,11 +34,20 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=dark" width="250" height="150"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="250" height="150"/ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
-</a>
-</div>
+<br/>
+<details>
+<summary>Statistics:<summary>
+  <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=dark" />
+  </a>
+  
+  <br/>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
+  </a>
+  </div>
+</details>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Mariyazakharova73&label=PROFILE+VIEWS)
