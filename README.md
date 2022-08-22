@@ -9,7 +9,7 @@
 ### 📞Connect with me:
 
   <a href="https://t.me/zakharovamaria73">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="telegram"/>
+    <img src="https://img.shields.io/badge/-Telegram-gray??style=plastic&logo=telegram" alt="telegram"/>
   </a>
 
 ---
