@@ -24,7 +24,7 @@
   <a href="#" target="_blank"> <img src="./images/React-logo.svg" alt="React" width="40" height="40" /> </a>
   <a href="#" target="_blank"> <img src="./images/node-js.png" alt="Nodejs" width="40" height="40" /> </a>
   <a href="#" target="_blank"> <img src="./images/VSCode-logo.svg" alt="VSCode" width="40" height="40" /> </a>
-  <a href="#" target="_blank"> <img src="./images/Webpack.png" alt="Webpack" width="40" height="40" /> </a>
+  <a href="#" target="_blank"> <img src="./images/webpack.png" alt="Webpack" width="40" height="40" /> </a>
 </p>
 
 ---
