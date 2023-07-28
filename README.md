@@ -21,22 +21,16 @@
   <img height='25px' src="https://img.shields.io/badge/Tailwind CSS-20232A??style=for-the-badge&logo=Tailwind CSS&logoColor=06B6D4" alt="Tailwind CSS">
   <img height='25px' src="https://img.shields.io/badge/styled components-20232A??style=for-the-badge&logo=styledcomponents&logoColor=DB7093" alt="styled components">
   <img height='25px' src="https://img.shields.io/badge/Ionic-20232A??style=for-the-badge&logo=ionic&logoColor=3880FF" alt="ionic">
-  
   <img height='25px' src="https://img.shields.io/badge/Sass-20232A??style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass">
   <img height='25px' src="https://img.shields.io/badge/CSS3-20232A??style=for-the-badge&logo=css3&logoColor=1572B6" alt="СSS3">
   <img height='25px' src="https://img.shields.io/badge/HTML5-20232A??style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
   <img height='25px' src="https://img.shields.io/badge/Jest-20232A??style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest">
-  
   <img height='25px' src="https://img.shields.io/badge/Express.js-20232A??style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img height='25px' src="https://img.shields.io/badge/Node.js-20232A??style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node JS">
   <img height='25px' src="https://img.shields.io/badge/MongoDB-20232A??style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
   <img height='25px' src="https://img.shields.io/badge/Strapi-20232A??style=for-the-badge&logo=strapi&logoColor=2F2E8B" alt="Strapi">
-  
-  <img height='25px' src="https://img.shields.io/badge/GIT-20232A??style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
   <img height='25px' src="https://img.shields.io/badge/Webpack-20232A??style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack">
-  <img height='25px' src="https://img.shields.io/badge/Babel-20232A??style=for-the-badge&logo=babel&logoColor=F9DC3E" alt="Babel">
   <img height='25px' src="https://img.shields.io/badge/Figma-20232A??style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
-  <img height='25px' src="https://img.shields.io/badge/Postman-20232A??style=for-the-badge&logo=Postman&logoColor=FF6C37" alt="Postman">
 
 </div>
 
