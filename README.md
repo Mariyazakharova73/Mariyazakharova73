@@ -1,12 +1,14 @@
-#### Привет 👋 Я, Мария Захарова, начинающий frontend разработчик.
+### Привет 👋 Я, Мария Захарова, начинающий frontend разработчик.
 
-#### 📞 Контакты:
+### 📞 Контакты:
 
-  <a href="https://t.me/zakharovamaria73">
-    <img src="https://img.shields.io/badge/Telegram-gray??style=plastic&logo=telegram" alt="telegram"/>
-  </a>
+  <div>
+    <a href="https://t.me/zakharovamaria73">
+      <img src="https://img.shields.io/badge/Telegram-gray??style=plastic&logo=telegram" alt="telegram"/>
+    </a>
+  </div>
 
-#### 🛠️Языки и технологии:
+### 🛠️Языки и технологии:
 
 <div>
   <img height='25px' src="https://img.shields.io/badge/React-20232A??style=plastic&logo=react&logoColor=61DAFB" alt="React">
@@ -34,7 +36,16 @@
 
 </div>
 
-<!-- Options: &hide=stars,commits,prs,issues,contribs -->
+### 📈 Статистика:
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
+  </a>
+  </div>
+
+<!-- Options: &hide=stars,commits,prs,issues,contribs
 <details>
 <summary> <h4>📈 Статистика:</h4></summary>
   <div align="center">
@@ -48,4 +59,4 @@
   </a>
   </div>
 </details>
-<br/>
+<br/> -->
