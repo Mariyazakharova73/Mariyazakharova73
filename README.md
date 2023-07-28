@@ -1,6 +1,6 @@
 ### Привет 👋 Я, Мария Захарова, начинающий frontend разработчик.
 
-### 📞 Контакты:
+#### 📞 Контакты:
 
   <div>
     <a href="https://t.me/zakharovamaria73">
@@ -8,7 +8,7 @@
     </a>
   </div>
 
-### 🛠️Языки и технологии:
+#### 🛠️Языки и технологии:
 
 <div>
   <img height='25px' src="https://img.shields.io/badge/React-20232A??style=plastic&logo=react&logoColor=61DAFB" alt="React">
@@ -36,7 +36,7 @@
 
 </div>
 
-### 📈 Статистика:
+#### 📈 Статистика:
 
 <div align="center">
   <br/>
