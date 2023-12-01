@@ -45,8 +45,9 @@
   </a>
 
 <br/>
+<br/>
 
-![image](https://www.codewars.com/users/maria7373/badges/large)
+![image](https://www.codewars.com/users/maria7373/badges/small)
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs
 <details>
