@@ -43,6 +43,10 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
   </a>
+
+<br/>
+
+  ![My codewars statistic](https://www.codewars.com/users/maria7373/badges/small)
   </div>
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs
