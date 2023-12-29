@@ -49,7 +49,7 @@
 
 <div>LeetCode</div>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs
 <details>
