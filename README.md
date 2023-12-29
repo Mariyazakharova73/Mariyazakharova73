@@ -36,20 +36,24 @@
 
 #### 📈 Статистика:
 
-<div align="center">
-  <br/>
+<div style="display: flex; align-items: center; gap:5px;" >
+
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
   </a>
 
-<br/>
+  <div>
+    LeetCode
+
+   [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/Mariyazakharova73/leetcode-stats)
+
+  </div>
+
+</div>
+
 <br/>
 
 ![image](https://www.codewars.com/users/maria7373/badges/small)
-
-<div>LeetCode</div>
-
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs
 <details>
@@ -58,7 +62,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mariyazakharova73&count_private=true&show_icons=true&theme=dark" />
   </a>
-  
+
   <br/>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
