@@ -43,8 +43,7 @@
     </td>
     <td valign="center">
       <div>
-
-#### LeetCode
+    <b>LeetCode</b>
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/Mariyazakharova73/leetcode-stats)
 
