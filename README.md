@@ -36,7 +36,22 @@
 
 #### 📈 Статистика:
 
-<div style="display: flex; align-items: center; gap:5px;" >
+<table>
+  <tr>
+    <td valign="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
+    </td>
+    <td valign="center">
+    <div>
+    LeetCode
+
+   [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/Mariyazakharova73/leetcode-stats)
+
+  </div></td>
+  </tr>
+</table>
+
+<!-- <div style="display: flex; align-items: center; gap:5px;" >
 
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
@@ -49,7 +64,7 @@
 
   </div>
 
-</div>
+</div> -->
 
 <br/>
 
