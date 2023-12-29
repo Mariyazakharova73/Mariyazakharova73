@@ -1,6 +1,6 @@
 ### Привет 👋 Я, Мария Захарова, начинающий frontend разработчик.
 
-#### 📞 Контакты:
+### 📞 Контакты:
 
   <div>
     <a href="https://t.me/zakharovamaria73">
@@ -8,7 +8,7 @@
     </a>
   </div>
 
-#### 🛠️Языки и технологии:
+### 🛠️Языки и технологии:
 
 <div>
   <img height='25px' src="https://img.shields.io/badge/React-20232A??style=plastic&logo=react&logoColor=61DAFB" alt="React">
@@ -34,7 +34,7 @@
 
 </div>
 
-#### 📈 Статистика:
+### 📈 Статистика:
 
 <table>
   <tr>
@@ -42,33 +42,21 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
     </td>
     <td valign="center">
-    <div>
-    LeetCode
+      <div>
 
-   [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/Mariyazakharova73/leetcode-stats)
+#### LeetCode
 
-  </div></td>
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/Mariyazakharova73/leetcode-stats)
+
+  </div>
+  </td>
   </tr>
 </table>
 
-<!-- <div style="display: flex; align-items: center; gap:5px;" >
-
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
-  </a>
-
-  <div>
-    LeetCode
-
-   [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/Mariyazakharova73/leetcode-stats)
-
-  </div>
-
-</div> -->
-
-<br/>
+<div align='center'>
 
 ![image](https://www.codewars.com/users/maria7373/badges/small)
+</div>
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs
 <details>
