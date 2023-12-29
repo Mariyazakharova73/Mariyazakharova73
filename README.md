@@ -14,10 +14,8 @@
   <img height='25px' src="https://img.shields.io/badge/React-20232A??style=plastic&logo=react&logoColor=61DAFB" alt="React">
   <img height='25px' src="https://img.shields.io/badge/TypeScript-20232A??style=plastic&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img height='25px' src="https://img.shields.io/badge/JavaScript-20232A??style=plastic&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  
   <img height='25px' src="https://img.shields.io/badge/Redux, Redux Toolkit-20232A??style=plastic&logo=redux&logoColor=764ABC" alt="Redux">
-  <img height='25px' src="https://img.shields.io/badge/Effector-20232A??style=plastic" alt="Effector">
-  
+  <!-- <img height='25px' src="https://img.shields.io/badge/Effector-20232A??style=plastic" alt="Effector"> -->
   <img height='25px' src="https://img.shields.io/badge/Material UI-20232A??style=for-the-badge&logo=MUI&logoColor=007FFF" alt="MUI">
   <img height='25px' src="https://img.shields.io/badge/Ant Design-20232A??style=for-the-badge&logo=Ant Design&logoColor=0170FE" alt="Ant Design">
   <img height='25px' src="https://img.shields.io/badge/Tailwind CSS-20232A??style=for-the-badge&logo=Tailwind CSS&logoColor=06B6D4" alt="Tailwind CSS">
@@ -48,6 +46,10 @@
 <br/>
 
 ![image](https://www.codewars.com/users/maria7373/badges/small)
+
+<div>LeetCode</div>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mariyazakharova73&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs
 <details>
