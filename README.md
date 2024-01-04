@@ -15,6 +15,7 @@
   <img height='25px' src="https://img.shields.io/badge/TypeScript-20232A??style=plastic&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img height='25px' src="https://img.shields.io/badge/JavaScript-20232A??style=plastic&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img height='25px' src="https://img.shields.io/badge/Redux, Redux Toolkit-20232A??style=plastic&logo=redux&logoColor=764ABC" alt="Redux">
+  <img height='25px' src="https://img.shields.io/badge/Next.js-20232A??style=plastic&logo=nextdotjs&logoColor=fff" alt="Nextjs.">
 
   <br/>
 
