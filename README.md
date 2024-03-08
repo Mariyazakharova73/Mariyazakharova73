@@ -47,7 +47,7 @@
 
 ### 📈 Статистика:
 
- <div align="center">
+ <div>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
   </a>
@@ -71,7 +71,7 @@
   </tr>
 </table> -->
 
-<div align='center'>
+<div>
 
 ![image](https://www.codewars.com/users/maria7373/badges/small)
 
