@@ -47,7 +47,15 @@
 
 ### 📈 Статистика:
 
-<table>
+ <div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
+  </a>
+  </div>
+
+  <br/>
+
+<!-- <table>
   <tr>
     <td valign="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
@@ -61,7 +69,7 @@
   </div>
   </td>
   </tr>
-</table>
+</table> -->
 
 <div align='center'>
 
