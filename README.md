@@ -3,10 +3,10 @@
 ### 📞 Контакты:
 
   <div>
-    <a href="https://t.me/zakharovamaria73">
-      <img src="https://img.shields.io/badge/Telegram-gray??style=plastic&logo=telegram" alt="telegram"/>
+    <a href="https://t.me/zakharovamaria73" target='_blank'>
+      <img src="https://img.shields.io/badge/Telegram-gray??style=plastic&logo=telegram" alt="telegram" />
     </a>
-    <a href="mailto:zakharovamaria73@yandex.ru">
+    <a href="mailto:zakharovamaria73@yandex.ru" target='_blank'>
       <img src="https://img.shields.io/badge/Email-gray??style=plastic&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </div>
@@ -33,12 +33,6 @@
   <img height='25px' src="https://img.shields.io/badge/styled components-20232A??style=for-the-badge&logo=styledcomponents&logoColor=DB7093" alt="styled components.">
   <img height='25px' src="https://img.shields.io/badge/Sass-20232A??style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass.">
   <img height='25px' src="https://img.shields.io/badge/Shadcn/ui-20232A??style=for-the-badge&logo=shadcnui&logoColor=fff" alt="Shadcn/ui.">
-
-  
- <br/>
- <br/>
-  
-  <img height='25px' src="https://img.shields.io/badge/Storybook-20232A??style=for-the-badge&logo=storybook&logoColor=FF4785" alt="storybook.">
   <img height='25px' src="https://img.shields.io/badge/Figma-20232A??style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma.">
   <img height='25px' src="https://img.shields.io/badge/Webpack-20232A??style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack.">
 
@@ -46,6 +40,7 @@
 
   <img height='25px' src="https://img.shields.io/badge/Vitest-20232A??style=for-the-badge&logo=vitest&logoColor=00FF74" alt="Vitest.">
   <img height='25px' src="https://img.shields.io/badge/Cypress-20232A??style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress.">
+  <img height='25px' src="https://img.shields.io/badge/Storybook-20232A??style=for-the-badge&logo=storybook&logoColor=FF4785" alt="storybook.">
   <img height='25px' src="https://img.shields.io/badge/Express.js-20232A??style=for-the-badge&logo=express&logoColor=white" alt="Express.">
   <img height='25px' src="https://img.shields.io/badge/Node.js-20232A??style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node JS.">
   <img height='25px' src="https://img.shields.io/badge/MongoDB-20232A??style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB.">
