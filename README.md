@@ -23,6 +23,7 @@
   <img height='25px' src="https://img.shields.io/badge/Zustand-20232A??style=plastic" alt="Zustand.">
   <img height='25px' src="https://img.shields.io/badge/Vue-20232A??style=plastic&logo=vuedotjs&logoColor=4FC08D" alt="Vue.">
   <img height='25px' src="https://img.shields.io/badge/Pinia-20232A??style=plastic" alt="Pinia.">
+  <img height='25px' src="https://img.shields.io/badge/Webpack-20232A??style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack.">
 
   <br/>
   <br/>
@@ -34,7 +35,6 @@
   <img height='25px' src="https://img.shields.io/badge/Sass-20232A??style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass.">
   <img height='25px' src="https://img.shields.io/badge/Shadcn/ui-20232A??style=for-the-badge&logo=shadcnui&logoColor=fff" alt="Shadcn/ui.">
   <img height='25px' src="https://img.shields.io/badge/Figma-20232A??style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma.">
-  <img height='25px' src="https://img.shields.io/badge/Webpack-20232A??style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack.">
 
  <br/>
 
