@@ -6,7 +6,7 @@
     <a href="https://t.me/zakharovamaria73" target='_blank'>
       <img src="https://img.shields.io/badge/Telegram-gray??style=plastic&logo=telegram" alt="telegram" />
     </a>
-    <a href="mailto:zakharovamaria73@yandex.ru" target='_blank'>
+    <a href="mailto:zakharovamaria73@yandex.ru">
       <img src="https://img.shields.io/badge/Email-gray??style=plastic&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </div>
