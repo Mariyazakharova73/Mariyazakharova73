@@ -47,15 +47,13 @@
  <!-- <img height='25px' src="https://img.shields.io/badge/Prisma-20232A??style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma."> -->
 </div>
 
-<!-- ### 📈 Статистика:
+### 📈 Статистика:
 
  <div>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
   </div>
 
-  <br/> -->
+  <br/>
 
 <!-- <table>
   <tr>
