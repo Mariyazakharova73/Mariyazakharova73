@@ -15,7 +15,7 @@
 
 <div>
   <img height='25px' src="https://img.shields.io/badge/React-20232A??style=plastic&logo=react&logoColor=61DAFB" alt="React.">
-  <!-- <img height='25px' src="https://img.shields.io/badge/Next.js-20232A??style=plastic&logo=nextdotjs&logoColor=fff" alt="Nextjs."> -->
+  <img height='25px' src="https://img.shields.io/badge/Next.js-20232A??style=plastic&logo=nextdotjs&logoColor=fff" alt="Nextjs.">
   <img height='25px' src="https://img.shields.io/badge/TypeScript-20232A??style=plastic&logo=typescript&logoColor=#4FC08D" alt="TypeScript.">
   <img height='25px' src="https://img.shields.io/badge/JavaScript-20232A??style=plastic&logo=javascript&logoColor=F7DF1E" alt="JavaScript.">
   <img height='25px' src="https://img.shields.io/badge/MobX-20232A??style=plastic&logo=mobx&logoColor=FF9955" alt="Mobx.">
@@ -23,17 +23,16 @@
   <img height='25px' src="https://img.shields.io/badge/Zustand-20232A??style=plastic" alt="Zustand.">
   <img height='25px' src="https://img.shields.io/badge/Vue-20232A??style=plastic&logo=vuedotjs&logoColor=4FC08D" alt="Vue.">
   <img height='25px' src="https://img.shields.io/badge/Pinia-20232A??style=plastic" alt="Pinia.">
-  <img height='25px' src="https://img.shields.io/badge/Webpack-20232A??style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack.">
 
   <br/>
   <br/>
-  
+
+  <img height='25px' src="https://img.shields.io/badge/Sass-20232A??style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass.">
+  <img height='25px' src="https://img.shields.io/badge/Tailwind CSS-20232A??style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS.">
+  <img height='25px' src="https://img.shields.io/badge/Shadcn/ui-20232A??style=for-the-badge&logo=shadcnui&logoColor=fff" alt="Shadcn/ui.">
   <img height='25px' src="https://img.shields.io/badge/Material UI-20232A??style=for-the-badge&logo=MUI&logoColor=007FFF" alt="MUI.">
   <img height='25px' src="https://img.shields.io/badge/Ant Design-20232A??style=for-the-badge&logo=antdesign&logoColor=0170FE" alt="Ant Design.">
-  <img height='25px' src="https://img.shields.io/badge/Tailwind CSS-20232A??style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS.">
   <img height='25px' src="https://img.shields.io/badge/styled components-20232A??style=for-the-badge&logo=styledcomponents&logoColor=DB7093" alt="styled components.">
-  <img height='25px' src="https://img.shields.io/badge/Sass-20232A??style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass.">
-  <img height='25px' src="https://img.shields.io/badge/Shadcn/ui-20232A??style=for-the-badge&logo=shadcnui&logoColor=fff" alt="Shadcn/ui.">
   <img height='25px' src="https://img.shields.io/badge/Figma-20232A??style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma.">
 
  <br/>
@@ -44,6 +43,7 @@
   <img height='25px' src="https://img.shields.io/badge/Express.js-20232A??style=for-the-badge&logo=express&logoColor=white" alt="Express.">
   <img height='25px' src="https://img.shields.io/badge/Node.js-20232A??style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node JS.">
   <img height='25px' src="https://img.shields.io/badge/MongoDB-20232A??style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB.">
+   <img height='25px' src="https://img.shields.io/badge/Webpack-20232A??style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack.">
  <!-- <img height='25px' src="https://img.shields.io/badge/Prisma-20232A??style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma."> -->
 </div>
 
